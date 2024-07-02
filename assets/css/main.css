@@ -1465,7 +1465,7 @@ border: 1px solid var(--naranja);
   flex-direction: column;
   text-align: center;
   transition: 0.3s;
-  background-image: url("/assets/img/fondocardseccion5.jpg");
+  background-image: url(fondocardseccion5.jpg);
   border-radius: 6px;
 }
 
