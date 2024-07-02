@@ -1489,6 +1489,12 @@ border: 1px solid var(--naranja);
   margin: 0 auto;
 }
 
+.testimonial-img{
+  width: 90px;
+  border: 4px solid var(--background-color);
+  margin: 0 auto;
+}
+
 .testimonials .testimonial-item h3 {
   font-size: 18px;
   font-weight: bold;
