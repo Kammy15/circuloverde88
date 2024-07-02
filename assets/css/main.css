@@ -962,7 +962,8 @@ align-items: center;
   box-shadow: 0px 0 10px rgba(0, 0, 0, 0.1);
   background-image: url("/assets/img/fondocard1.png"); /* Ruta relativa a tu archivo CSS */
   background-image: url("./assets/img/fondocard1.png");
-  background-image: url("/assets/img/fondocard1.PNG");
+  background-image: url("../assets/img/fondocard1.PNG");
+  background-image: url("../img/fondocard1.png");
   background-size: cover; /* Asegura que la imagen cubra toda la tarjeta */
   background-position: center; /* Centra la imagen en la tarjeta */
   background-repeat: no-repeat; /* Evita que la imagen se repita */
