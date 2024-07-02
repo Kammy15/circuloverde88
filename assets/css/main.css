@@ -1199,7 +1199,7 @@ flex-shrink: 0;
   overflow: hidden;
   transition: 0.3s;
   height: 100%;
-  background-image: url(/assets/img/fondotalleres.jpg);
+  background-image: url(fondotalleres.jpg);
 }
 .pricing-tem2{
   box-shadow: 0px 0 30px color-mix(in srgb, var(--blanco), transparent 90%);
@@ -1210,7 +1210,7 @@ flex-shrink: 0;
   overflow: hidden;
   transition: 0.3s;
   height: 100%;
-  background-image: url(/assets/img/fondotalleres2.png);
+  background-image: url(fondotalleres2.png);
 }
 
 @media (min-width: 1200px) {
@@ -1550,7 +1550,7 @@ border: 1px solid var(--naranja);
 }
 
 .prueba {
-  background-image: url('/assets/img/section4fondo.jpg') ;
+  background-image: url(section4fondo.jpg) ;
   background-size: cover;
   
 }
